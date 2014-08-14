@@ -1,3 +1,3 @@
 Flask-SocketIO-threading
 ========================
-This project is unfinished, but will be made open-source later. 
+The python code is not working properly at the moment. Working in progress. 
